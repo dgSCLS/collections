@@ -1,8 +1,9 @@
 {
-	  "label":  "Polish Films",
-	  "description":  "Polish films in Suffolk County Libraries”,
-	 	  "resources":  [
-	    "WrvPnaab1yE",
-	    "zQF9GyaoLVw"
-	  ]
+	"label": "Polish Films",
+	  "description": "Polish films in Suffolk County Libraries”,
+	 	  "resources":
+	[
+	"WrvPnaab1yE",
+	"zQF9GyaoLVw"
+	]
 	}
