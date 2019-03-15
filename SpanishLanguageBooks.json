@@ -1,6 +1,6 @@
 {
   "label": "Spanish Books Bilingual",
   "description": "Spanish language books.",
-  "filters":["Print"],
+  "filters":["ElectronicResource"],
  "resources":["bDeWN1OOaXo"]
 }
