@@ -1,6 +1,6 @@
 {
   "label": "Spanish Books Bilingual",
   "description": "Spanish language books.",
-  "filters":["Text"],
+  "filters":["Printbook"],
  "resources":["bDeWN1OOaXo"]
 }
