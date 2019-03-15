@@ -1,6 +1,9 @@
 {
   "label": "Spanish Books Bilingual",
   "description": "Spanish language books.",
+  "filters": [
+  "Movie"
+  ],
  
  "resources": [
     "bDeWN1OOaXo"
