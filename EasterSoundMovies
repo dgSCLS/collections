@@ -1,8 +1,8 @@
 {
-  "label": "Childrens Easter Sound Recordings",
-  "description": "Easter audio.",
+  "label": "Childrens Easter Movies",
+  "description": "Easter Movies.",
   "filters": [
-    "Sound Recording"
+    "Movie"
   ],
 
   "resources": [
