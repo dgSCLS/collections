@@ -1,11 +1,8 @@
 {
   "label": "Spanish Books Bilingual",
   "description": "Spanish language books.",
- "filters": [
-    "Print Book"
-  ],
-
-  "resources": [
+ 
+ "resources": [
     "bDeWN1OOaXo"
     
   ]
