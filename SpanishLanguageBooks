@@ -1,8 +1,8 @@
 {
-  "label": "Spanish Books Bilingual",
-  "description": "Spanish language books.",
+  "label": "Spanish Books Bilingual Audio",
+  "description": "Spanish language audio books.",
   "filters": [
-    "Print book"
+    "Audio book"
   ],
   "resources": [
     "bDeWN1OOaXo"
