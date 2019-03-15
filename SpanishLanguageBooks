@@ -1,7 +1,10 @@
 {
   "label": "Spanish Books Bilingual Audio",
   "description": "Spanish language audio books.",
- 
+ "filters": [
+    "Movie"
+  ],
+
   "resources": [
     "bDeWN1OOaXo"
     
