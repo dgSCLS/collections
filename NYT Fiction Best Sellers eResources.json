@@ -1,0 +1,91 @@
+{"label": "New York Times Best Sellers -Fiction",
+ "description": "eBooks and eAudio.",
+ "list":
+ [
+   {
+    "label":"The Guernsey Literary and Potato Peel Pie Society",
+    "isbns": [
+
+
+     "9780440337973"
+     ]
+    },
+  {
+     "label":"The Whistler",
+     "isbns": [
+     "9780385541206",
+     "9780399565168"
+     ]
+  },
+  {
+     "label":"Small great things",
+     "isbns":[
+     "9780345544964",
+     "9780735210202"
+      ]
+   },
+   {
+     "label":"A man called Ove",
+     "isbns":[
+     "9788826067520",
+     "9781629239828"
+     ]
+   },
+   {
+     "label":"The mistress",
+     "isbns":[
+     "9780425285350"
+     ]
+   },
+   { 
+     "label":"The guests on South Battery",
+     "isbns":[
+    "9780698193000",
+     "9781501930867"
+    ]
+  },
+  {
+    "label":"No man's land",
+    "isbns":[
+    "9781455586523",
+    "9781478943082"
+    ]
+   },
+   {
+     "label":"Below the belt",
+     "isbns":[
+     "9780399574184",
+     "9781524756994"
+     ]
+   },
+   {
+    "label":"Cross the line",
+    "isbns":[
+     "9780316290166",
+     "9781478942221"
+     ]
+    },
+    {
+      "label":"The dry",
+      "isbns":[
+       "9781250105615",
+       "9781250117649"
+       ]
+    },
+    {
+      "label":"A dog's purpose",
+      "isbns":[
+      "9781250163509",
+      "9781400196456"
+       ]
+    },
+    {
+       "label":"The sleepwalker",
+       "isbns":[
+       "9780385538923",
+        "9780553399653"
+         ]
+     }
+ ]
+}
+
