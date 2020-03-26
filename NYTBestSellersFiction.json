@@ -1,0 +1,118 @@
+{"label": "Weekly NYT Best Sellers Fiction",
+ "description": "New York Times Weekly Best Sellers eResources",
+ "list":
+ [
+   {
+    "label":"The mirror & the light",
+    "isbns": [
+
+     "9781427289520"
+     ]
+    },
+  {
+     "label":"Journey of the pharaohs",
+     "isbns": [
+     "9780593083093",
+     "9780593164044"
+     ]
+  },
+  {
+     "label":"Where the crawdads sing",
+     "isbns":[
+     "9780735219113",
+     "9780525640394"
+      ]
+   },
+   {
+     "label":"Tierra Americana",
+     "isbns":[
+
+     "9781984898036"
+     ]
+   },
+   {
+     "label":"American dirt",
+     "isbns":[
+
+     "9781250260604"
+     ]
+   },
+   { 
+     "label":"Little fires everywhere",
+     "isbns":[
+     "9780735224308",
+     "9780525498094"
+    ]
+  },
+  {
+    "label":"Long range",
+    "isbns":[
+
+    "9780525538240"
+    ]
+   },
+   {
+     "label":"My DarkVanessa",
+     "isbns":[
+     "9780062941527",
+     "9780062941534"
+     ]
+   },
+   {
+    "label":"A good neighborhood",
+    "isbns":[
+
+     "9780062941534"
+     ]
+    },
+    {
+      "label":"Crescent City",
+      "isbns":[
+
+       "9781635574050"
+       ]
+    },
+    {
+      "label":"In Five Years",
+      "isbns":[
+      "9781982137465",
+      "9781797103204"
+       ]
+    },
+    {
+       "label":"Blindside",
+       "isbns":[
+      "9780316537124",
+        "9781549130472"
+       ]
+    },
+    {
+       "label":"The Numbers Game",
+       "isbns":[
+
+       "9780399179570"
+        ]
+     },
+    {
+       "label":"The Silent Patient",
+       "isbns":[
+       "9781250301710",
+       "9781250317537"
+        ]
+     },
+    {
+       "label":"The Tattooist of Auschwitz",
+       "isbns":[
+       "9780062797162",
+       "9780062866998"
+        ]
+     },
+     {
+        "label":"The Giver of Stars",
+        "isbns":[
+         "9780399562501",
+         "9780525530220"
+         ]
+     }
+ ]
+}
