@@ -1,0 +1,105 @@
+{"label": "Weekly NYT Best Sellers Non-Fiction",
+ "description": "New York Times Weekly Best Sellers eResources",
+ "list":
+ [
+   {
+    "label":"The Splendid and the Vile",
+    "isbns": [
+     "9780385348720",
+     "9780593167182"
+     ]
+    },
+  {
+     "label":"Educated",
+     "isbns": [
+     "9780399590511",
+     "9780525528081"
+     ]
+  },
+  {
+     "label":"Open book",
+     "isbns":[
+     "9780062899989",
+     "9780062905000"
+      ]
+   },
+   {
+     "label":"The Great Influenza",
+     "isbns":[
+
+     "9780307706737"
+     ]
+   },
+   {
+     "label":"The Mamba Mentality",
+     "isbns":[
+
+     "9780374719159"
+     ]
+   },
+   { 
+     "label":"Becoming",
+     "isbns":[
+     "9781524763152",
+     "9788401021763",
+     "9780525633709"
+    ]
+  },
+  {
+    "label":"The Gift of Forgiveness",
+    "isbns":[
+
+    "9781984878267"
+    ]
+   },
+   {
+     "label":"Sapiens",
+     "isbns":[
+     "9780062316103",
+     "9781494526900"
+     ]
+   },
+   {
+    "label":"Maybe you should talk to someone",
+    "isbns":[
+
+     "9781328663047"
+     ]
+    },
+    {
+      "label":"Talking to Strangers",
+      "isbns":[
+     "9780316535588",
+       "9781549100031"
+       ]
+    },
+    {
+      "label":"Say Nothing",
+      "isbns":[
+      "9780385543378",
+      "9781984841148"
+       ]
+    },
+    {
+       "label":"Just Mercy",
+       "isbns":[
+      "9780812994537",
+        "9780553550634"
+       ]
+    },
+    {
+       "label":"Deadliest Enemy",
+       "isbns":[
+
+       "9780316269650"
+        ]
+     },
+     {
+        "label":"John Adams Under Fire",
+        "isbns":[
+         "9781488057229",
+         "9781488208362"
+         ]
+     }
+ ]
+}
